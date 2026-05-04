@@ -117,8 +117,12 @@
       </div>
     </div>
 
-    <p class="mt-10 text-center text-xs font-bold italic uppercase tracking-widest text-neutral-600">
-      © 2026 Kahve • Pure Nature, Pure Science.
-    </p>
+    <div class="mt-10 flex flex-col items-center gap-3 text-xs font-bold uppercase tracking-widest text-[#3c2a20]/50 md:flex-row md:justify-between">
+      <p class="italic">© 2026 Kahve Roastery • Tek Origin, Taze Demleme.</p>
+      <a href="https://lavescar.com.tr" target="_blank" rel="noopener noreferrer" class="flex items-center gap-2 text-[#3c2a20]/60 transition hover:text-[#c68642]">
+        Lavescar Network
+        <span aria-hidden="true">→</span>
+      </a>
+    </div>
   </div>
 </footer>
