@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="kahveGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#c68642"/>
+      <stop offset="100%" stop-color="#8b5a2b"/>
+    </linearGradient>
+  </defs>
+  <!-- Coffee bean -->
+  <ellipse cx="32" cy="32" rx="14" ry="20" fill="url(#kahveGrad)" transform="rotate(20 32 32)"/>
+  <path d="M 26 14 Q 22 32 26 50" stroke="#fbf6ee" stroke-width="2.4" stroke-linecap="round" fill="none" transform="rotate(20 32 32)"/>
+  <!-- Steam wisps -->
+  <path d="M 22 8 Q 24 4 22 0" stroke="#c68642" stroke-width="1.6" stroke-linecap="round" fill="none" opacity="0.55"/>
+  <path d="M 32 6 Q 34 2 32 -2" stroke="#c68642" stroke-width="1.6" stroke-linecap="round" fill="none" opacity="0.7"/>
+  <path d="M 42 8 Q 44 4 42 0" stroke="#c68642" stroke-width="1.6" stroke-linecap="round" fill="none" opacity="0.55"/>
+</svg>
